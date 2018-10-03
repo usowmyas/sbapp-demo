@@ -18,6 +18,7 @@
 * Install Docker Compose 
 * Install HTTPie - <https://httpie.org/>
 * Install terraform - <https://www.terraform.io/>
+* DevSetup on AWS Ec2 - <https://github.com/usowmyas/AWSEc2DevSetup>
 
 ### Build the spring boot Docker images
 
